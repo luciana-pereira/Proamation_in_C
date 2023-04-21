@@ -12,3 +12,4 @@ Este repositorio contem as principais fontes de estudo em C.
 - [Projeto de Algoritmos (em C) de Paulo Feofiloff USP](https://www.ime.usp.br/~pf/algoritmos/index.html#C-language)
 - [Rationale for International Standard — Programming Languages — C](https://www.open-std.org/JTC1/SC22/WG14/www/C99RationaleV5.10.pdf)
 - [Documentação da linguagem C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+- [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
